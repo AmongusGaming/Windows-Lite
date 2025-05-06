@@ -1,4 +1,4 @@
-# Windows Lite
+j# Windows Lite
 
 Welcome to Windows Lite, a lightweight version of Windows 11 designed specifically for low-end computers. Our goal is to provide a faster, more efficient operating system with minimal resource usage.
 
